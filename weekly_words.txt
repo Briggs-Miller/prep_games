@@ -1,0 +1,16 @@
+happy
+bed
+sad
+cars
+chair
+fire
+tv
+fan
+table
+leg
+bird
+dog
+pencil
+picture
+people
+remote
